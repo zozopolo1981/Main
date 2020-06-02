@@ -1,2 +1,2 @@
-# Web-Development
+# Main
 Web Development Course Material
